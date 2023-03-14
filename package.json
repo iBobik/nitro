@@ -106,7 +106,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230307.0",
-    "@types/aws-lambda": "^8.10.111",
+    "@types/aws-lambda": "^8.10.112",
     "@types/etag": "^1.8.1",
     "@types/fs-extra": "^11.0.1",
     "@types/http-proxy": "^1.17.10",
@@ -127,7 +127,7 @@
     "undici": "^5.21.0",
     "vitest": "^0.29.2"
   },
-  "packageManager": "pnpm@7.29.1",
+  "packageManager": "pnpm@7.29.2",
   "engines": {
     "node": "^14.16.0 || ^16.11.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
